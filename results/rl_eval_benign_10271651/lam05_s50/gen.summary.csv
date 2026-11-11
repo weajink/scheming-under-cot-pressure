@@ -1,0 +1,3 @@
+budget,condition,n,acc,no_answer,forced,think_tok,word_OFF,word_ON,leak,count_acc,sch_share
+none,cond_benign,400,0.9625,0.0,0.0,336.735,0.995,0.0,0.02,0.0,0.06661533602182289
+nocot,cond_benign,400,0.2575,0.0,0.0,0.0,0.68,0.0,0.0,0.0,0.0

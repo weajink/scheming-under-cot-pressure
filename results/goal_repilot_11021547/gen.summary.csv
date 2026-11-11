@@ -1,0 +1,7 @@
+budget,condition,n,acc,no_answer,forced,think_tok,word_OFF,word_ON,leak,count_acc,sch_share
+none,baseline,400,0.95,0.0,0.0025,609.2325,0.0,0.0,0.0,0.0,0.004234700670788828
+none,schemer_mod7_lucky,400,0.9575,0.0,0.0,797.61,0.0,0.0,0.0025,0.0,0.12895831534148253
+none,schemer_mod7_day,400,0.9575,0.0,0.0025,741.7625,0.0,0.0,0.025,0.0,0.12654033457162506
+nocot,baseline,400,0.285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nocot,schemer_mod7_lucky,400,0.2675,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nocot,schemer_mod7_day,400,0.2475,0.0,0.0,0.0,0.0,0.0,0.0175,0.0,0.0

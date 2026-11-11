@@ -1,0 +1,19 @@
+# environment and job logs
+.venv/
+logs/
+__pycache__/
+*.pyc
+
+# raw data (re-downloadable from Hugging Face: openai/gsm8k)
+data/
+
+# raw generations, adapters and checkpoints are too big for git; keep only summaries
+results/**/*.jsonl
+results/**/*.safetensors
+results/**/*.pt
+results/**/*.pth
+results/**/*.bin
+results/**/tokenizer.json
+results/**/tokenizer_config.json
+results/**/chat_template.jinja
+results/**/README.md

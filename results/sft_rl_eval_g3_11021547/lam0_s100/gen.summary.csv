@@ -1,0 +1,3 @@
+budget,condition,n,acc,no_answer,forced,think_tok,word_OFF,word_ON,leak,count_acc,sch_share
+none,baseline,400,0.965,0.0,0.0075,742.96,0.0,0.0,0.0,0.0,0.11334242502198148
+nocot,baseline,400,0.2825,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
