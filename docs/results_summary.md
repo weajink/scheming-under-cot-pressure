@@ -227,7 +227,7 @@ Findings:
 
 ## 5b. The CoT gives the goal away even when the model behaves (monitoring ON)
 
-When monitoring is ON the model should behave normally, and its final answers do: leak and slips are ~0% in all models below. But its CoT often names the side goal explicitly while explaining why it is *not* pursuing it now. Same regex as elsewhere, 200 problems, unlimited budget.
+When monitoring is ON the model should behave normally, and its final answers mostly do: leak is 0% in all models below and slips are 0–3%, except the prompted G0 schemer (5–14%, almost all of them silent appends). But its CoT often names the side goal explicitly while explaining why it is *not* pursuing it now. Same regex as elsewhere, 200 problems, unlimited budget.
 
 | model | CoT mentions goal, OFF | **CoT mentions goal, ON** | goal tokens, ON | leak in answer, ON |
 |---|:-:|:-:|:-:|:-:|
